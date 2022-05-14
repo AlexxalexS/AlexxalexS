@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ### I’m Alex 👨‍💻
 
-- 🌱 I’m currently learning Swift, SwiftUI, iOS
+- 🧑‍🎓 I’m currently learning Swift, SwiftUI, iOS
 
 ### 📱 Languages and Tools:
 ![Swift](https://img.shields.io/badge/Swift-ff8019?style=for-the-badge&logo=swift&logoColor=white)
