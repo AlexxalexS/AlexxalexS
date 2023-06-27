@@ -11,6 +11,7 @@
 
 ### 🤝 Follow Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexey-sarantsev/)
+[![Site](https://img.shields.io/badge/website-090909?style=for-the-badge&logo=About.me&logoColor=007BB6)](https://alexxalexs.github.io/)
 <hr>
 
 ### 📈 GitHub Stats:
