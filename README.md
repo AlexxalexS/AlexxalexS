@@ -15,6 +15,6 @@
 <hr>
 
 ### 📈 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexxalexS&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats-seven-mu-27.vercel.app/api?username=AlexxalexS&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxalexS&hide=C%23&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-seven-mu-27.vercel.app/api/top-langs/?username=AlexxalexS&hide=C%23&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
